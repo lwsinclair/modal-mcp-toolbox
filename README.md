@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/philipp-eisen-modal-mcp-toolbox-badge.png)](https://mseep.ai/app/philipp-eisen-modal-mcp-toolbox)
+
 # Modal MCP Toolbox 🛠️
 
 [![smithery badge](https://smithery.ai/badge/@philipp-eisen/modal-mcp-toolbox)](https://smithery.ai/server/@philipp-eisen/modal-mcp-toolbox)
